@@ -110,6 +110,11 @@
     <Compile Include="CodeLens\LineLensDisplayService.fs" />
     <Compile Include="CodeLens\FSharpCodeLensService.fs" />
     <Compile Include="CodeLens\CodeLensProvider.fs" />
+    <Compile Include="ObjectBrowser\ListItemFactory.fs" />
+    <Compile Include="ObjectBrowser\DescriptionBuilder.fs" />
+    <Compile Include="ObjectBrowser\ObjectBrowserLibraryManager.fs" />
+    <Compile Include="ObjectBrowser\FSharpSyncClassViewCommandHandler.fs" />
+    <Compile Include="ObjectBrowser\FSharpLibraryService.fs" />
   </ItemGroup>
 
   <ItemGroup>
